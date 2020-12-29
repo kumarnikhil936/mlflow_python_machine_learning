@@ -1,9 +1,10 @@
 # MLflow Examples
 
 ---
-```
+
 This is just a subset of what has beed provided here: https://github.com/amesar/mlflow-examples
-``` 
+
+--- 
 
 
 MLflow examples in Python for sklearn and Tensorflow / Keras machine learning models.
