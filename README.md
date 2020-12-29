@@ -1,5 +1,9 @@
 # MLflow Examples
 
+---
+```
+This is just a subset of what has beed provided here: https://github.com/amesar/mlflow-examples
+``` 
 
 
 MLflow examples in Python for sklearn and Tensorflow / Keras machine learning models.
@@ -97,7 +101,3 @@ export MLFLOW_TRACKING_URI=http://localhost:5000
 ### Data
 Data for either of the two types of models are inside the individual folders.
 
----
-```
-This is just a subset of what has beed provided here: https://github.com/amesar/mlflow-examples
-``` 
