@@ -1,5 +1,7 @@
 # MLflow Examples
 
+
+
 MLflow examples in Python for sklearn and Tensorflow / Keras machine learning models.
 
 ## Examples
@@ -26,7 +28,7 @@ Use Python 3.7.5
 
 * Install miniconda3: ``https://conda.io/miniconda.html``
 * Create the environment: ``conda env create --file conda.yaml``
-* Source the environment: `` source activate mlflow-examples``
+* Source the environment: `` source activate mlflow_venv``
 
 ### Virtual Environment
 
@@ -92,5 +94,10 @@ export MLFLOW_TRACKING_URI=http://localhost:5000
 ```
 
 
-## Data
-Data for either of the two types of models are inside the infividual folders. 
+### Data
+Data for either of the two types of models are inside the individual folders.
+
+---
+```
+This is just a subset of what has beed provided here: https://github.com/amesar/mlflow-examples
+``` 
